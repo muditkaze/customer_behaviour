@@ -94,14 +94,3 @@ The analyses can help explore which customer segments contribute revenue, which 
 
 > **Note:** This repository contains analysis queries and a dashboard, not a validated report of numerical findings. Insights should be interpreted after running the analysis on the dataset.
 
-## Future Improvements
-
-- Add a dashboard screenshot to this README.
-- Document the dataset source and licensing.
-- Add a concise summary of actual results and actionable recommendations.
-- Move database configuration into environment variables.
-
-## Author
-
-**Mudit Jain**  
-BCA Student | Aspiring Data Analyst
