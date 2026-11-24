@@ -94,3 +94,7 @@ The analyses can help explore which customer segments contribute revenue, which 
 
 > **Note:** This repository contains analysis queries and a dashboard, not a validated report of numerical findings. Insights should be interpreted after running the analysis on the dataset.
 
+## Power BI Screenshot
+
+https://cdn.discordapp.com/attachments/1490240478782816396/1574553714558107758/image.png?ex=6b06b9ab&is=6b05682b&hm=dfa5ea070e5f8cab59345ebcf9bdcb1626c787076ad7d6a0135dc82ec23f6e8a&
+
